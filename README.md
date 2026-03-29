@@ -35,6 +35,9 @@ The system calculates the **Debt-to-Income (DTI)** ratio to assess risk.
 * **Concepts Used:** * **Encapsulation:** Private fields and public getters in `Applicant.java`.
     * **Static Logic:** Utility-based decision making in `Validator.java`.
     * **Exception Handling:** Robust File I/O to prevent crashes.
+ 
+ 
+
 
 ---
 
@@ -50,3 +53,4 @@ SmartCredit/
 ├── docs/
 │   └── Project_Report.pdf  # Detailed Capstone Report
 └── README.md               # Project Documentation
+
