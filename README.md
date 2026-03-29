@@ -1,4 +1,4 @@
-# SmartCredit: Automated Loan Eligibility & Risk Analyzer 
+# SmartCredit: Automated Loan Eligibility finder
 
 ### BYOP Capstone Project 
 **Author:** Rishabh Garg  
