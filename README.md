@@ -10,7 +10,7 @@
 SmartCredit is a Java-based application designed to solve the problem of manual delays in loan approval prcessing steps . By using a **Rule-Based Expert System**, 
 it evaluates the customers loan application statement by using the DTI ratio (**dept to income**) ratio. 
 it includes mainly the 2 factors 
-1:- (CREDIT-SCORE)
+1:- (CREDIT-SCORE).
 2:- (DTI)ratio.
 
 This project demonstrates core **Object-Oriented Programming (OOP)** principles, **File I/O**, and **Data Validation** in a real-world financial context.
