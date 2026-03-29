@@ -36,7 +36,38 @@ The system calculates the **Debt-to-Income (DTI)** ratio to assess risk.
     * **Static Logic:** Utility-based decision making in `Validator.java`.
     * **Exception Handling:** Robust File I/O to prevent crashes.
  
- 
+ Installation & Execution Guide
+Follow these steps to set up and run the SmartCredit system on your local machine.
+
+1. Prerequisites
+Ensure you have the following installed:
+
+Java Development Kit (JDK): Version 11 or higher.
+
+Check by running java -version in your terminal.
+
+Git: To clone the repository.
+
+Code Editor: VS Code, IntelliJ IDEA, or even Notepad++.
+
+2. Clone the Repository
+Open your terminal (Command Prompt or PowerShell) and run:
+
+Bash
+git clone https://github.com/your-username/SmartCredit.git
+cd SmartCredit
+3. Compilation
+Navigate to the directory containing your .java source files. Compile all files at once using the wildcard *:
+
+Bash
+javac Applicant.java Validator.java Main.java
+This will generate .class files for each component.
+
+4. Running the Application
+Once compiled, run the Main class to start the program:
+
+Bash
+java Main****
 
 
 ---
